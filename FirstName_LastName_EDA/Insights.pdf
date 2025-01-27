@@ -1,0 +1,30 @@
+Peak Sales Periods:
+    Sales peak during holiday seasons (e.g., 2024/07 & 2024/09), indicating a high demand during year-end.
+    Monthly trends reveal a steady increase in sales during Q4 across years.
+
+
+Regional Sales Insights:
+    South America leads in total sales, contributing over 40% of revenue, followed by Europe.
+    Marketing campaigns focused on underperforming regions, such as South America, may improve global reach.
+
+
+Average Customer Spend:
+    The average spend per customer is $3467.31, with top customers spending up to 5 times the average.
+    Strategies to encourage mid-tier customers to increase spending could boost overall sales.
+
+
+Top Product Categories:
+    "Electronics" and "Clothing" categories generate the highest revenue, accounting for over 50% of sales.
+
+
+
+Top Customers:
+    The top 5 customers contribute significantly to overall revenue, with each spending above the average customer spend of $3467.31.
+                  CustomerName  TotalSpend
+            
+            153   Paul Parsons    10673.87
+            29    Bruce Rhodes     8040.39
+            63    Gerald Hines     7663.70
+            196  William Adams     7634.45
+            2     Aimee Taylor     7572.91
+    Targeted loyalty programs for these customers could improve retention.
